@@ -1,0 +1,9 @@
+INSERT INTO items (name, description, cost, quantity, sizes) VALUES ('exDress1', 'here is where a description would go', 15.99, 8000, 'xs, s, m, lg, xl');
+INSERT INTO items (name, description, cost, quantity, sizes) VALUES ('exDress2', 'here is where a description would go', 15.99, 8000, 'xs, s, m, lg, xl');
+INSERT INTO items (name, description, cost, quantity, sizes) VALUES ('exDress3', 'here is where a description would go', 15.99, 8000, 'xs, s, m, lg, xl');
+INSERT INTO items (name, description, cost, quantity, sizes) VALUES ('exDress4', 'here is where a description would go', 15.99, 8000, 'xs, s, m, lg, xl');
+INSERT INTO items (name, description, cost, quantity, sizes) VALUES ('exDress5', 'here is where a description would go', 15.99, 8000, 'xs, s, m, lg, xl');
+INSERT INTO items (name, description, cost, quantity, sizes) VALUES ('exDress6', 'here is where a description would go', 15.99, 8000, 'xs, s, m, lg, xl');
+INSERT INTO items (name, description, cost, quantity, sizes) VALUES ('exDress7', 'here is where a description would go', 15.99, 8000, 'xs, s, m, lg, xl');
+INSERT INTO items (name, description, cost, quantity, sizes) VALUES ('exDress8', 'here is where a description would go', 15.99, 8000, 'xs, s, m, lg, xl');
+INSERT INTO items (name, description, cost, quantity, sizes) VALUES ('exDress9', 'here is where a description would go', 15.99, 8000, 'xs, s, m, lg, xl');
